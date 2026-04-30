@@ -1,11 +1,11 @@
-# cs50-c-labs-adapted
+## Teaching Context
 
-## Context
+These labs were developed and used in a vocational training environment (IEFP), where students often have:
+- no prior programming experience
+- diverse technical backgrounds
+- limited exposure to structured problem-solving
 
-This repository contains a curated set of C programming labs inspired by CS50, adapted for **vocational and practical teaching** contexts.  
-The goal is not to copy the original CS50 problem sets, but to **reframe core ideas** (I/O, conditions, loops, functions, types, basic algorithms) into exercises that are explicit, well-structured, and suitable for learners with diverse backgrounds.
-
-All labs are designed to be used **without the CS50 library**, relying only on standard C (`stdio.h`, basic types, and your own functions).
+The material was adapted to prioritise clarity, repetition, and incremental difficulty.
 
 ## Technical Focus
 
