@@ -447,6 +447,5 @@ This lab sequence (Lab 01 to Lab 06) represents a complete C module as delivered
 Students have 15 hours of supervised work time for the final project and are encouraged to continue working outside class if they wish.
 
 At this stage, no additional labs are planned for this repository. Future extensions, if any, will be documented as separate additions.
-  
   solution.c
   INSTRUCTOR_NOTES.md
