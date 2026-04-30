@@ -7,6 +7,12 @@ These labs were developed and used in a vocational training environment (IEFP), 
 
 The material was adapted to prioritise clarity, repetition, and incremental difficulty.
 
+## Design Philosophy
+
+- Simplicity over cleverness
+- Explicit logic over abstraction
+- Teaching progression over code optimisation
+
 ## Technical Focus
 
 - **Language**: C
