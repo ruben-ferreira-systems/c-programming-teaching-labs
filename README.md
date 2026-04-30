@@ -47,19 +47,20 @@ lab03-credit/
   LAB.md
   solution.c
   INSTRUCTOR_NOTES.md
+
 lab04-caesar/
   LAB.md
   solution.c
   INSTRUCTOR_NOTES.md
+
 lab05-tictactoe/
   LAB.md
   INSTRUCTOR_NOTES.md
   (student implementations live in their own repositories)
+
 lab06-final-project/
   LAB.md
   (student projects live in their own repositories: `projeto-final-c`)
-
-# cs50-c-labs-adapted
 
 ## Context
 
